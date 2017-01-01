@@ -37,7 +37,7 @@ print_int @@ int_of_string "hello" (* ('a->'b)->'a->'b, same as the ($) in haske
 succ 1;; (* 2 *)
 pred 2;; (* 1 *)
 
-3 iland 1;; (* 1, bitwise logical and *)
+3 land 1;; (* 1, bitwise logical and *)
 3 lor 1;; (* 3, bitwise logical or *)
 3 lxor 1;; (* 2, bitwise logical xor *)
 lnot 1;; (* -2, bitwise logical negation *)
