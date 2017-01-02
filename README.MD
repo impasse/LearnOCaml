@@ -1,3 +1,3 @@
 # LearnOCaml
 
-Something about learnning OCaml.
+Something about learning OCaml.
